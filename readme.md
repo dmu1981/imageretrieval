@@ -3,13 +3,14 @@ Retrieval of relevant content from a large collection of samples is a challengin
 
 The below gallery shows example of images retrieved from my hard drive after scanning various datasets i have downloaded over the past weeks and months.
 
-![ret1](retrieval1.png)
-![ret2](retrieval2.png)
-![ret3](retrieval3.png)
-![ret4](retrieval4.png)
-![ret5](retrieval5.png)
-![ret6](retrieval6.png)
-![ret7](retrieval7.png)
+![ret1](retrieval1.PNG)
+![ret2](retrieval2.PNG)
+![ret3](retrieval3.PNG)
+![ret4](retrieval4.PNG)
+![ret5](retrieval5.PNG)
+![ret6](retrieval6.PNG)
+![ret7](retrieval7.PNG)
+![ret7](retrieval8.PNG)
 
 Note how some of the images are dupliactes as they appear multiple times on my hard drive. 
 
