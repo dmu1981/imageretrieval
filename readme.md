@@ -12,7 +12,7 @@ The below gallery shows example of images retrieved from my hard drive after sca
 ![ret7](retrieval7.PNG)
 ![ret7](retrieval8.PNG)
 
-Note how some of the images are dupliactes as they appear multiple times on my hard drive. 
+Note how some of the images are duplicates as they appear multiple times on my hard drive. 
 
 ## How To used
 First, follow the instructions [here](https://github.com/openai/CLIP) and [here](https://github.com/spotify/annoy) to install necessary third-party dependencies. 
