@@ -76,4 +76,3 @@ When PCA is calculated over the whole dataset, the principal components focus or
 ![pca3](pca3.PNG)
 *PCA on the whole dataset with four distinct clusters* 
 
-When PCA is calculated over the whole dataset, the principal components focus or more general semantic meaning (such as ANIMAL vs. FLOWER) as can be see above (NOTE: The horizontal axis represents the first principial component)
